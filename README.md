@@ -22,6 +22,12 @@ Este projeto visa automatizar e otimizar a criação de diversos documentos esco
 * **Menu Interativo:** Funções acessíveis através de um menu customizado na planilha ("Gerador de Documentos IA").
 * **Confirmação de Ações:** Diálogos de confirmação (usando `ui.prompt`) para operações em lote, evitando ações acidentais.
 
+## Demonstração em Vídeo
+
+Confira uma rápida demonstração de como o Gerador Inteligente de Documentos funciona!
+
+[![Demonstração do Gerador de decomentos com Google Planilhas + Gemini](./videos/gerador_documentos_IA.mp4)
+
 ## 🛠️ Tecnologias Utilizadas
 
 * **Google Planilhas:** Interface de dados e controle.
