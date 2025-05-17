@@ -26,7 +26,8 @@ Este projeto visa automatizar e otimizar a criação de diversos documentos esco
 
 Confira uma rápida demonstração de como o Gerador Inteligente de Documentos funciona!
 
-[![Demonstração do Gerador de documentos com Google Planilhas + Gemini](./videos/gerador_documentos_IA.mp4)
+[![Demonstração Animada do Gerador de Documentos](./videos/demo.gif)](./videos/gerador_documentos_IA.mp4)
+
 
 ## 🛠️ Tecnologias Utilizadas
 
